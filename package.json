@@ -1,0 +1,8 @@
+{
+  "name": "storage-native-promise",
+  "version": "1.0.0",
+  "description": "A simple promise wrapper for browser storage.",
+  "main": "index.js",
+  "author": "Richard Hoffman <coverslide@gmail.com>",
+  "license": "ISC"
+}
